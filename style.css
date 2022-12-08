@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat; 
+    /* width: 100%;    */
+}
+input {
+    text-align: center;
+}
+::placeholder {
+    text-align: center;
+}   
+th {
+    color: #fff;
+}
+table {
+    text-align: center;
+    margin: 10% auto;
+}
+.input-group {
+    margin: 5% auto;
+}
